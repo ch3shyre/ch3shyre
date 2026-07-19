@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ch3shyre&label=BIGGIES&color=1f3b5f&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=ch3shyre&label=ROOKIES&color=1f3b5f&style=flat" alt="Profile views" />
 
 <br>
 
