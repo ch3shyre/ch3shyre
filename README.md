@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="110" alt="up" src="https://github.com/user-attachments/assets/8ca27d53-902d-47d5-bba6-f4b6c0f5308e" />
+<img width="693" height="70" alt="sparkles" src="https://github.com/user-attachments/assets/aa313b6b-45a1-474b-8b9e-71cf7c7e0375" />
 
 <br>
 
@@ -12,6 +12,6 @@
 
 <br>
 
-<img width="500" height="110" alt="down" src="https://github.com/user-attachments/assets/0ae4e899-4ce8-4b28-9d88-552a2939048b" />
+<img width="693" height="70" alt="sparkles" src="https://github.com/user-attachments/assets/f6a9fb20-9920-4ba9-a7e7-c7458902f7d2" />
 
 </div>
