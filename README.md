@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="693" height="70" alt="sparkles" src="https://github.com/user-attachments/assets/aa313b6b-45a1-474b-8b9e-71cf7c7e0375" />
+<img width="693" height="70" alt="bannnner" src="https://github.com/user-attachments/assets/87f38daa-abe6-4e45-97c0-3aa3b98af3e5" />
 
 <br>
 
-<img width="514" height="486" alt="leonn" src="https://github.com/user-attachments/assets/c296f26f-0f70-42f3-85ae-7db6d1479dfc" />
+![Uploading leonnnawaw-removebg-preview.png…]()
 
 <br>
 
@@ -12,6 +12,6 @@
 
 <br>
 
-<img width="693" height="70" alt="sparkles" src="https://github.com/user-attachments/assets/f6a9fb20-9920-4ba9-a7e7-c7458902f7d2" />
+<img width="693" height="70" alt="bannnner" src="https://github.com/user-attachments/assets/35784bcb-d5af-4911-a284-dfa96d70b7c9" />
 
 </div>
