@@ -42,10 +42,10 @@
 
 <p align="center">
   <b>♡ thankss ♡</b><br>
-  <a href="https://github.com/username1">@pt-players</a> .
-  <a href="https://github.com/username2">@pt-hall-of-media</a> .
-  <a href="https://github.com/username3">@pt-fashion</a> .
-<a href="https://github.com/username3">@ponytownyumeshippers </a> </p>
+  <a href="[https://github.com/username1](https://github.com/pt-players)">@pt-players</a> .
+  <a href="[https://github.com/username2](https://github.com/pt-hall-of-media)">@pt-hall-of-media</a> .
+  <a href="[https://github.com/username3](https://github.com/pt-fashion)">@pt-fashion</a> .
+<a href="[https://github.com/username3](https://github.com/ponytownyumeshippers)">@ponytownyumeshippers </a> </p>
 <p align="center">
  <img width="1280" height="167" alt="down" src="https://github.com/user-attachments/assets/62255ff7-6391-476a-b4d5-7474df07c322" />
 </p>
