@@ -29,8 +29,23 @@
 </tr>
 </table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=ROOKIES&color=5c4033&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=ROOKIES&color=5c4033&style=flat-square" alt="Profile views" />
 </p>
+
+<p align="center">
+  <a href="#thankss">
+    <img width="20" height="20" alt="pancake" src="https://github.com/user-attachments/assets/ec3a1b68-b721-4fca-9a54-8652705f056b" />
+  </a>
+</p>
+
+<a id="thankss"></a>
+
+<p align="center">
+  <b>♡ thankss ♡</b><br>
+  <a href="https://github.com/username1">@pt-players</a> .
+  <a href="https://github.com/username2">@pt-hall-of-media</a> .
+  <a href="https://github.com/username3">@pt-fashion</a> .
+<a href="https://github.com/username3">@ponytownyumeshippers </a> </p>
 <p align="center">
  <img width="1280" height="167" alt="down" src="https://github.com/user-attachments/assets/62255ff7-6391-476a-b4d5-7474df07c322" />
 </p>
