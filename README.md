@@ -28,7 +28,9 @@
 
 </tr>
 </table>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=ROOKIES&color=1f3b5f&style=flat" alt="Profile views" />
+</p>
 <p align="center">
  <img width="1280" height="167" alt="down" src="https://github.com/user-attachments/assets/62255ff7-6391-476a-b4d5-7474df07c322" />
 </p>
