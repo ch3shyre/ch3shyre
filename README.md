@@ -43,7 +43,7 @@
 <p align="center">
   <b>♡ thankss ♡</b><br>
   <a href="https://github.com/pt-players">@pt-players</a> .
-<a href="https://github.com/pt-hall-of-media)">@pt-hall-of-media</a> .
+<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> .
   <a href="https://github.com/pt-fashion">@pt-fashion</a> .
 <a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a>  </p>
 <p align="center">
