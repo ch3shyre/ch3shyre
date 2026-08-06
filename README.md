@@ -45,7 +45,7 @@
   <a href="https://github.com/pt-players">@pt-players</a> .
 <a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> .
   <a href="https://github.com/pt-fashion">@pt-fashion</a> .
-<a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> . <a href="https://github.com/fans-town">@fans-town</a> . <a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> . <a href="https://github.com/pt-medals2">@pt-medals2</a> </p>
+<a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> . <a href="https://github.com/fans-town">@fans-town</a> . <a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> . <a href="https://github.com/pt-medals2">@pt-medals2</a> . <a href="https://https://github.com/pt-friendships">@pt-friendships </a></p>
 <p align="center">
  <img width="1280" height="167" alt="down" src="https://github.com/user-attachments/assets/62255ff7-6391-476a-b4d5-7474df07c322" />
 </p>
