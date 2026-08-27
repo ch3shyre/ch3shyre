@@ -13,9 +13,9 @@
 </picture>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c4e2ef36-c493-4ce3-8fcf-d301cf7c5d21" />
- <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/fa914f2f-8186-4a21-9d3f-e0f4bb2f70dc" />
- <img alt="Your Image Description" src="https://github.com/user-attachments/assets/e149f961-c3a8-41a1-8978-1e8b65f10dfd" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/117782fd-f342-4368-add8-4263d60d9d68" />
+ <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/0313fc9f-70c6-4f21-bb68-96a235ceabf9" />
+ <img alt="Your Image Description" src="https://github.com/user-attachments/assets/f604a340-e582-4694-8875-bc8375635e25" />
 </picture> <p align="center"><a href="https://ch3shyre.atabook.org">Atabook</a> . <a href="https://mmmikes.carrd.co">Carrd</a> . <a href="https://leonskennedyz.straw.page">Straw</a></td>
 </td> <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/866e6313-6b9f-4e35-bb4b-cd9abead9c42" />
