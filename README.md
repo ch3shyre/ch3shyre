@@ -1,51 +1,24 @@
-<p align="center">
-  <img width="1280" height="167" alt="up" src="https://github.com/user-attachments/assets/1cec9bc7-cf95-4611-b818-b58dd5b3481c" /></p>
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img width="500" height="500" alt="re2leonawwee-removebg-preview" src="https://github.com/user-attachments/assets/6457a1a5-1e6e-4c10-83a9-91df8ccd0a8f" />
-<br><br>
-<img width="18" height="20" alt="zombie" src="https://github.com/user-attachments/assets/8b4b1459-6fa3-46e3-bb50-7b217ed07438" />
-<a href="https://leonskennedyz.straw.page">Straw</a></td>
-
-<td width="40"></td>
-
-<td align="center">
-<img width="500" height="500" alt="forre4leonawee-removebg-preview" src="https://github.com/user-attachments/assets/7db79932-1466-4aef-9bc5-9f15d31a976e" /><br><br>
-<img width="20" height="20" alt="blue" src="https://github.com/user-attachments/assets/4035879a-9426-42f7-8d41-16a41b8bc8ad" />
-<a href="https://mmmikes.carrd.co">Carrd</a>
-</td>
-
-<td width="40"></td>
-
-<td align="center">
-<img width="500" height="500" alt="re9leonawee-removebg-preview" src="https://github.com/user-attachments/assets/b848b856-a342-4a1f-b155-f59085b32699" /><br><br>
-<img width="20" height="20" alt="21d5f3a551ee1b4bfa75a6b8fa5002ae5d6f5d68" src="https://github.com/user-attachments/assets/36d10ea5-8735-41f4-9252-a33fa7760b12" />
-<a href="https://ch3shyre.atabook.org">Atabook</a>
-</td>
-
 </tr>
 </table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=ROOKIES&color=5c4033&style=flat-square" alt="Profile views" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2c459fcb-2f41-4f5c-a346-9750a5838e4e" />
+  <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/b6c29933-4bb7-4998-ad26-ddcafb37c65f" />
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/ee5a3b8d-5425-47b6-a9fb-01b35b058602" />
 <p align="center">
-  <a href="#thankss">
-    <img width="20" height="20" alt="pancake" src="https://github.com/user-attachments/assets/ec3a1b68-b721-4fca-9a54-8652705f056b" />
-  </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/866e6313-6b9f-4e35-bb4b-cd9abead9c42" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/543f89f8-577d-4696-bd29-0d594befa8d9" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/0e80b2a5-f22d-46f2-b715-a6f746d63a76" />
 
-<a id="thankss"></a>
-
+</picture>
 <p align="center">
-  <b>♡ thankss ♡</b><br>
-  <a href="https://github.com/pt-players">@pt-players</a> .
-<a href="https://github.com/pt-hall-of-media">@pt-hall-of-media</a> .
-  <a href="https://github.com/pt-fashion">@pt-fashion</a> .
-<a href="https://github.com/ponytownyumeshippers">@ponytownyumeshippers</a> . <a href="https://github.com/fans-town">@fans-town</a> . <a href="https://github.com/pt-of-awesomeness">@pt-of-awesomeness</a> . <a href="https://github.com/pt-medals2">@pt-medals2</a> . <a href="https://github.com/pt-friendships">@pt-friendships </a></p>
-<p align="center">
- <img width="1280" height="167" alt="down" src="https://github.com/user-attachments/assets/62255ff7-6391-476a-b4d5-7474df07c322" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c4e2ef36-c493-4ce3-8fcf-d301cf7c5d21" />
+ <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/fa914f2f-8186-4a21-9d3f-e0f4bb2f70dc" />
+ <img alt="Your Image Description" src="https://github.com/user-attachments/assets/e149f961-c3a8-41a1-8978-1e8b65f10dfd" />
+</picture> <p align="center"><a href="https://ch3shyre.atabook.org">Atabook</a> . <a href="https://mmmikes.carrd.co">Carrd</a> . <a href="https://leonskennedyz.straw.page">Straw</a></td>
+</td> <p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/866e6313-6b9f-4e35-bb4b-cd9abead9c42" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/543f89f8-577d-4696-bd29-0d594befa8d9" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/0e80b2a5-f22d-46f2-b715-a6f746d63a76" />
+ <p align="center">still a wip its 5am
