@@ -4,7 +4,11 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/866e6313-6b9f-4e35-bb4b-cd9abead9c42" />
 <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/543f89f8-577d-4696-bd29-0d594befa8d9" />
 <img alt="Your Image Description" src="https://github.com/user-attachments/assets/0e80b2a5-f22d-46f2-b715-a6f746d63a76" />
-
+</tr>
+</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=credits&color=5c4033&style=flat-square" alt="Profile views" />
+</p>
 </picture>
 <p align="center">
 <picture>
