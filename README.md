@@ -40,4 +40,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98c8bdff-f82d-4757-9a2a-32babb46764c" />
 <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/185d19db-a707-40b9-bb87-e2e6263476af" />
 <img alt="Your Image Description" src="https://github.com/user-attachments/assets/f32bba32-c3fc-4604-8d9e-7fb615a4eac7" />
- <p align="center">still a wip . im too lazy to finish everything.....
+ <p align="center">still a wip cus i have to remake my strawpage ok tomorrow ok
