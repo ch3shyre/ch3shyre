@@ -19,7 +19,7 @@
  <p style="text-align:center;">
 <div style="display:flex; justify-content:center; align-items:center; gap:10px;">
  <a href="https://ch3shyre.atabook.org">
-    <img src="https://github.com/user-attachments/assets/86e65a0b-ed79-4d63-8942-e605cf77d096" width="200">
+    <div align="center"><img src="https://github.com/user-attachments/assets/86e65a0b-ed79-4d63-8942-e605cf77d096" width="200">
   </a>
 
  <a href="https://mikesz.carrd.co">
