@@ -17,7 +17,7 @@
  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/d66af78b-8a3d-4085-a567-64e9390fef5f" />
 </picture> <p align="center"><a href="https://ch3shyre.atabook.org">Atabook</a> . <a href="https://mikesz.carrd.co">Carrd</a> . <a href="https://leonskennedyz.straw.page">Straw</a></td>
 </td> <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/4e8e0dbf-628e-4bda-90b4-c2f2f5a88904" />
-<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/543f89f8-577d-4696-bd29-0d594befa8d9" />
-<img alt="Your Image Description" src="https://github.com/user-attachments/assets/0e80b2a5-f22d-46f2-b715-a6f746d63a76" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98c8bdff-f82d-4757-9a2a-32babb46764c" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/185d19db-a707-40b9-bb87-e2e6263476af" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/f32bba32-c3fc-4604-8d9e-7fb615a4eac7" />
  <p align="center">still a wip . im too lazy to finish everything.....
