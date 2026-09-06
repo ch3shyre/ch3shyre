@@ -19,15 +19,15 @@
  <p style="text-align:center;">
 <div style="display:flex; justify-content:center; align-items:center; gap:10px;">
  <a href="https://ch3shyre.atabook.org">
-    <img src="https://github.com/user-attachments/assets/86e65a0b-ed79-4d63-8942-e605cf77d096" width="300">
+    <img src="https://github.com/user-attachments/assets/86e65a0b-ed79-4d63-8942-e605cf77d096" width="200">
   </a>
 
  <a href="https://mikesz.carrd.co">
-    <img src="https://github.com/user-attachments/assets/8aee7059-b529-4908-ac0a-755e7e714683" width="300">
+    <img src="https://github.com/user-attachments/assets/8aee7059-b529-4908-ac0a-755e7e714683" width="200">
   </a>
 
   <a href="https://leonskennedyz.straw.page">
-    <img src="https://github.com/user-attachments/assets/d4fd7c2f-4ed2-4d00-8fc6-7645df22cd18" width="300">
+    <img src="https://github.com/user-attachments/assets/d4fd7c2f-4ed2-4d00-8fc6-7645df22cd18" width="200">
   </a>
 </div>
 </td> <p align="center">
