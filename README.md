@@ -1,9 +1,9 @@
 </tr>
 </table>
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="<img width="400" height="33" alt="sspasrkles" src="https://github.com/user-attachments/assets/d45ba876-9206-440a-b3bd-b3a79d1b916f" />
-<source media="(prefers-color-scheme: dark)"<img width="400" height="33" alt="sspasrkles" src="https://github.com/user-attachments/assets/0933e57b-854d-4133-9b05-3380a8836bb5" />
-<img alt="Your Image Description" src="https://github.com/user-attachments/assets/942aa241-7711-48be-a3da-39d0449b9c78" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/031c92b8-f2f6-4912-b6fe-248444913fe4" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/2ba1b471-75c8-40d1-bd72-834302ab2761" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/6ae5bfd2-3c10-4e79-b1c3-30e5d2ed24be" />
 </tr>
 </table>
 <p align="center">
