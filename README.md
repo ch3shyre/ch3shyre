@@ -12,9 +12,9 @@
 </picture>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b08d1d0e-7ce9-44eb-8109-a1ff6f0c1f7e" />
- <source media="(prefers-color-scheme: dark)https://github.com/user-attachments/assets/6ccb880d-ea1a-415c-84ff-940b4986f627" />
- <img alt="Your Image Description" src="https://github.com/user-attachments/assets/d66af78b-8a3d-4085-a567-64e9390fef5f" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/90f66882-01d4-4095-9d07-2501048315e3" />
+ <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/59eb0709-6975-4188-bd06-b3abe96ce911" />
+ <img alt="Your Image Description" src="https://github.com/user-attachments/assets/4426ee97-8804-4ac1-b57b-dbbbdb3beff0" />
 </picture> <p align="center"><p align="center">
  <p style="text-align:center;">
 <div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
@@ -40,4 +40,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98c8bdff-f82d-4757-9a2a-32babb46764c" />
 <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/185d19db-a707-40b9-bb87-e2e6263476af" />
 <img alt="Your Image Description" src="https://github.com/user-attachments/assets/f32bba32-c3fc-4604-8d9e-7fb615a4eac7" />
- <p align="center">still a wip cus i have to remake my strawpage ok tomorrow ok . 4 mobile users flip ur screen, the readme looks bad on mobile
+ <p align="center">still a wip cus i have to remake my strawpage ok tomorrow ok . 4 mobile users flip ur screen, the readme looks bad
