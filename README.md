@@ -30,7 +30,7 @@
   </a>
 
   <!-- RIGHT (STRAW) -->
-  <a href="https://leonskennedyz.straw.page">
+  <a href="https://spokeidk.straw.page">
     <img src="https://github.com/user-attachments/assets/d4fd7c2f-4ed2-4d00-8fc6-7645df22cd18" width="200">
   </a>
 
