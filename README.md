@@ -7,8 +7,6 @@
 </tr>
 </table>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ch3shyre&label=exploits&color=264672&style=flat-square" alt="Profile views" />
-</p>
 </picture>
 <p align="center">
 <picture>
