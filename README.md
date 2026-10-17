@@ -38,4 +38,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98c8bdff-f82d-4757-9a2a-32babb46764c" />
 <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/185d19db-a707-40b9-bb87-e2e6263476af" />
 <img alt="Your Image Description" src="https://github.com/user-attachments/assets/f32bba32-c3fc-4604-8d9e-7fb615a4eac7" />
- <p align="center">still a wip n i wont prolly finish it for the next 3 months
+ <p align="center">still a wip n i wont prolly finish it for the next 3 months . 4 mobile users rotate ur phone or wtv ykyk 4 the readme
