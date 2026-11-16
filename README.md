@@ -1,41 +1,45 @@
 </tr>
 </table>
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/031c92b8-f2f6-4912-b6fe-248444913fe4" />
-<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/2ba1b471-75c8-40d1-bd72-834302ab2761" />
-<img alt="Your Image Description" src="https://github.com/user-attachments/assets/6ae5bfd2-3c10-4e79-b1c3-30e5d2ed24be" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e04188e2-2c51-4fc9-8bab-f07b1beadc7b" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/b88e6b47-92da-4ce3-92e1-373bd97f5756" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/6f21cf00-c6b8-4d52-a857-3d94e5a8d700" />
 </tr>
 </table>
 <p align="center">
 </picture>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/90f66882-01d4-4095-9d07-2501048315e3" />
- <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/59eb0709-6975-4188-bd06-b3abe96ce911" />
- <img alt="Your Image Description" src="https://github.com/user-attachments/assets/4426ee97-8804-4ac1-b57b-dbbbdb3beff0" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5c450d0b-e75b-4925-a8ea-de746a303799" />
+ <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/0c8fb72e-6ec0-45d6-8d7d-3fc45689b747" />
+ <img alt="Your Image Description" src="https://github.com/user-attachments/assets/dc5b9bba-9a4d-4c3a-9895-657b17c56895" />
 </picture> <p align="center"><p align="center">
  <p style="text-align:center;">
 <div style="display:flex; justify-content:center; align-items:center; gap:20px; flex-wrap:nowrap;">
   
   <!-- LEFT (ATA) -->
   <div align="center"><a href="https://ch3shyre.atabook.org">
-    <img src="https://github.com/user-attachments/assets/86e65a0b-ed79-4d63-8942-e605cf77d096" width="200">
+    <img src="https://github.com/user-attachments/assets/a1133f3a-bbc1-4120-93a0-24448e91b99f"width="200">ata
   </a>
 
   <!-- CENTER (CARRD) -->
   <a href="https://mikesz.carrd.co">
-    <img src="https://github.com/user-attachments/assets/8aee7059-b529-4908-ac0a-755e7e714683" width="200">
+    <img src="https://github.com/user-attachments/assets/c3d0f912-d4c7-48f1-ab56-d6d1fa558fd1"width="200">carrd
   </a>
 
   <!-- RIGHT (STRAW) -->
   <a href="https://spokeidk.straw.page">
-    <img src="https://github.com/user-attachments/assets/d4fd7c2f-4ed2-4d00-8fc6-7645df22cd18" width="200">
+    <img src="https://github.com/user-attachments/assets/2438d0c5-6887-4f51-9c6d-392bbb83d6a7"width="200">straw
   </a>
 
 </div>
 </div>
 </td> <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/98c8bdff-f82d-4757-9a2a-32babb46764c" />
-<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/185d19db-a707-40b9-bb87-e2e6263476af" />
-<img alt="Your Image Description" src="https://github.com/user-attachments/assets/f32bba32-c3fc-4604-8d9e-7fb615a4eac7" />
- <p align="center">still a wip n i wont prolly finish it for the next 3 months . 4 mobile users rotate ur phone or wtv ykyk 4 the readme
+</tr>
+</table>
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e04188e2-2c51-4fc9-8bab-f07b1beadc7b" />
+<source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/b88e6b47-92da-4ce3-92e1-373bd97f5756" />
+<img alt="Your Image Description" src="https://github.com/user-attachments/assets/6f21cf00-c6b8-4d52-a857-3d94e5a8d700" />
+ <p align="center">yay making my gh bryan themed . wip wip wip . 4 mobile users rotate ur phone or wtv ykyk 4 the readme
+
