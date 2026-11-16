@@ -19,17 +19,17 @@
   
   <!-- LEFT (ATA) -->
   <div align="center"><a href="https://ch3shyre.atabook.org">
-    <img src="https://github.com/user-attachments/assets/a1133f3a-bbc1-4120-93a0-24448e91b99f"width="200">ata
+    <img src="https://github.com/user-attachments/assets/699ba724-0b7c-4d58-92e2-3d4d9a4fdf72"width="170">ata
   </a>
 
   <!-- CENTER (CARRD) -->
   <a href="https://mikesz.carrd.co">
-    <img src="https://github.com/user-attachments/assets/c3d0f912-d4c7-48f1-ab56-d6d1fa558fd1"width="200">carrd
+    <img src="https://github.com/user-attachments/assets/dd8b27fd-dbce-4337-a120-21d27f54b6b0"width="170">carrd
   </a>
 
   <!-- RIGHT (STRAW) -->
   <a href="https://spokeidk.straw.page">
-    <img src="https://github.com/user-attachments/assets/2438d0c5-6887-4f51-9c6d-392bbb83d6a7"width="200">straw
+    <img src="https://github.com/user-attachments/assets/68320811-147a-4d36-85f0-6c0eed4d5334"width="170">straw
   </a>
 
 </div>
