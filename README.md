@@ -41,5 +41,5 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e04188e2-2c51-4fc9-8bab-f07b1beadc7b" />
 <source media="(prefers-color-scheme: dark)"https://github.com/user-attachments/assets/b88e6b47-92da-4ce3-92e1-373bd97f5756" />
 <img alt="Your Image Description" src="https://github.com/user-attachments/assets/6f21cf00-c6b8-4d52-a857-3d94e5a8d700" />
- <p align="center">yay making my gh bryan themed . wip wip wip . 4 mobile users rotate ur phone or wtv ykyk 4 the readme
+ <p align="center">yay making my gh bryan themed . wip wip wip ill prolly never ever rmk my straw atp . 4 mobile users rotate ur phone or wtv ykyk 4 the readme
 
